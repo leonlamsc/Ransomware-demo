@@ -1,0 +1,20 @@
+Dear Employee,
+
+We hope this message finds you well. Your security is our top priority, and we are writing to inform you of a critical system update that is required immediately.
+
+**What's Happening?**
+Our security team has identified a potential vulnerability in our system that could compromise data integrity. To address this, we are releasing a mandatory security update.
+
+**Action Required: Update Your System**
+We kindly ask that you update your system at your earliest convenience to ensure the continued security of your data.
+
+**How to Update:**
+Detailed instructions for the update can be downloaded through the our website.
+HERE
+
+**Need Assistance?**
+If you have any questions or encounter issues during the update, our support team is ready to assist. Please contact the IT department.
+
+We appreciate your prompt attention to this matter and apologize for any inconvenience.
+
+Best regards,
