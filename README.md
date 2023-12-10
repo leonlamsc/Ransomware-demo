@@ -11,8 +11,9 @@ The repo is about demonstrating how the ransomware works in the system for educa
 ![image](https://github.com/leonlamsc/Ransomware-demo/assets/140391766/d91e0bd5-8174-4f4d-8423-c3228b9b0325)
 
 ## Getting Started
+phishing email demo
+![image](https://github.com/leonlamsc/Ransomware-demo/assets/140391766/91e464fa-03d3-4d31-ad6a-7524005619b1)
 
-## Usage
 Apache2.service
 - Host a temporary HTTP server 
 - Upload and Download of file to the server
@@ -27,5 +28,7 @@ Koadic
 ![image](https://github.com/leonlamsc/Ransomware-demo/assets/140391766/c18c125b-79c4-4935-9ba9-49e6eb6d96b1)
 
 ![image](https://github.com/leonlamsc/Ransomware-demo/assets/140391766/f08e7c8a-28e0-4597-a1ea-3d437344e381)
+
+## Usage
 
 ## Acknowledgements
