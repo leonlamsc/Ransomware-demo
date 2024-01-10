@@ -33,7 +33,7 @@ command
 
 command
 
-- `kodiac`
+- `koadic`
 
 - `use stager/js/mshta && info`
 
